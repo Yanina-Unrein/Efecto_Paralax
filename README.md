@@ -2,8 +2,6 @@
 
 # Página sencilla con efecto parallax
 <p>Este es un proyecto sencillo que cree para probar el efecto parallax</p>
-<br>
-<br>
 
 ### Lenguajes utilizados:
 
@@ -16,16 +14,16 @@
 
 ### Home page:
 <p align='left'>
-    <img src='./img/paralax1.jpg'></img>
+    <img src='img/paralax1.jpg'></img>
 </p>
 
 ### Parallax page:
 <p align='left'>
-    <video src='./img/video.mp4'></video>
+    <video autoplay muted><source src='img/video.mp4'></video>
 </p>
 
 ### Register page
 <p align='left'>
-    <img src='./img/paralax2.jpg'></img>
+    <img src='img/paralax2.jpg'></img>
 </p>
 
