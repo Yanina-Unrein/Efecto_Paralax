@@ -19,7 +19,7 @@
 
 ### Parallax page:
 <p align='left'>
-    <video autoplay muted><source src='img/video.mp4'></video>
+    <video src="img/video.mp4" autoplay loop muted class="video"></video>
 </p>
 
 ### Register page
